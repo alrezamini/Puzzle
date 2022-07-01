@@ -1,5 +1,5 @@
 # Puzzle
-What Input Should Be Like ? <br/>
+Input Should Be Like This : <br/>
 <br/>
 1 : Puzzle Length <br/>
 2 : Initial State (Seprated With Space) <br/>
